@@ -1,4 +1,3 @@
-# The-Imitation-Assignment-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,34 +44,40 @@
 <body>
 
   <div class="project">
-    <img src="images/project1.jpg" alt="Project 1 screenshot" />
-    <div class="caption">Project 1</div>
+    <img src="images_project/butterfly.jpg" alt="Butterfly" />
+    <div class="caption">Butterfly</div>
   </div>
 
   <div class="project">
-    <img src="images/project2.jpg" alt="Project 2 screenshot" />
-    <div class="caption">Project 2</div>
+    <img src="images_project/dinosaur.png" alt="Dinosaur" />
+    <div class="caption">Dinosaur</div>
   </div>
 
   <div class="project">
-    <img src="images/project3.jpg" alt="Project 3 screenshot" />
-    <div class="caption">Project 3</div>
+    <img src="images_project/football_field.jpg" alt="Football Field" />
+    <div class="caption">Football Field</div>
   </div>
 
   <div class="project">
-    <img src="images/project4.jpg" alt="Project 4 screenshot" />
-    <div class="caption">Project 4</div>
+    <img src="images_project/penguins.jpg" alt="Penguins" />
+    <div class="caption">Penguins</div>
   </div>
 
   <div class="project">
-    <img src="images/football_field.jpg" alt="Football Field Project" />
-    <div class="caption">Football Field Project</div>
+    <img src="images_project/seagull.png" alt="Seagull" />
+    <div class="caption">Seagull</div>
   </div>
 
   <div class="project">
-    <img src="images/tic-tac-toe.png" alt="Tic-Tac-Toe Overlay" />
-    <div class="caption">Tic-Tac-Toe Overlay</div>
+    <img src="images_project/theater_stage.jpg" alt="Theater Stage" />
+    <div class="caption">Theater Stage</div>
+  </div>
+
+  <div class="project">
+    <img src="images_project/tic-tac-toe.png" alt="Tic-Tac-Toe" />
+    <div class="caption">Tic-Tac-Toe</div>
   </div>
 
 </body>
 </html>
+
